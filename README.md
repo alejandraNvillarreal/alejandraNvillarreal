@@ -1,11 +1,10 @@
-I'am Santiago, physicist in data science, Kaggle Master and Red Cross volunteer  
-
+Hello there! I’m Alex, a passionate Data Science Engineer who discovered the world of programming at the age of 12. 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/santiagomota/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagomota/" alt="santiagomota"/></a>
+<a href="https://www.linkedin.com/in/alejandra-n-villarreal/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-n-villarreal/" alt="AlejandraVillarreal"/></a>
 <a href="https://twitter.com/mota_santiago" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/mota_santiago" alt="mota_santiago"/></a>
-<a href="https://github.com/santiagomota?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/santiagomota/Projects" alt="santiagomota"/></a>
-<a href="https://medium.com/@smota" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@smota" alt="smota"/></a>
+<a href="https://github.com/alejandraNvillarreal" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/alejandraNvillarreal" alt="AlejandraVillarreal"/></a>
+<a href="https://medium.com/@alejandra.nohemi.villarreal" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@alejandra.nohemi.villarreal" alt="smota"/></a>
 
 
 </p>
