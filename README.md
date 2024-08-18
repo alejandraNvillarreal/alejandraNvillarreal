@@ -11,8 +11,8 @@ Hello there! I’m Alex, a passionate Data Science Engineer who discovered the w
 
 ----
 
-<img src="https://github-readme-stats.vercel.app/api?username=santiagomota&show_icons=true" alt=santiagomota />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagomota" alt="santiagomota" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=alejandraNvillarreal&show_icons=true" alt=Alejandravillarreal />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandraNvillarreal" alt="AlejandraVillarreal" /> </p>
 
 
 <!--
