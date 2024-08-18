@@ -1,14 +1,22 @@
-Hello there! I’m Alex, a passionate Data Science Engineer who discovered the world of programming at the age of 12. 
+Hello there! 
+I'm Alejandra, Data Science Engineer, Kaggle Contributor and Business Intelligence Developer
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alejandra-n-villarreal/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-n-villarreal/" alt="AlejandraVillarreal"/></a>
 <a href="https://www.kaggle.com/alejandravillarreal" target="blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-A7C0FF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/alejandravillarreal" alt="AlejandraVillarreal"/></a>
-<a href="https://github.com/alejandraNvillarreal" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/alejandraNvillarreal" alt="AlejandraVillarreal"/></a>
+<a href="https://github.com/alejandraNvillarreal?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/alejandraNvillarreal?tab=repositories" alt="AlejandraVillarreal"/></a>
 <a href="https://www.coursera.org/account-profile" target="blank"><img align="center" src="https://img.shields.io/badge/-Coursera-A7C0FF?style=for-the-badge&logo=Coursera&logoColor=white&https://www.coursera.org/account-profile" alt="AlejandraVillarreal"/></a>
 <a href="https://medium.com/@alejandra.nohemi.villarreal" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@alejandra.nohemi.villarreal" alt="smota"/></a>
 
 
 </p>
+
+----
+
+A passionate Data Science Engineer who discovered the world of programming at the age of 12. I started with QBasic, C, C++, and Arduino, but now I focus on SQL, Python, R, BigQuery, and PowerBI. I’m particularly excited about Machine Learning, Deep Learning, Artificial Intelligence and Data Visualization.
+As an active Kaggle contributor, I’ve participated in challenges about Natural Language Processing, Regression, and Neural Networks using scikit-learn and TensorFlow. 
+
+Feel free to explore my repositories to see my projects and Kaggle contributions. I’m always excited to connect with fellow data enthusiasts and explore new opportunities!
 
 ----
 
