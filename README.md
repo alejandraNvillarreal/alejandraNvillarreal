@@ -27,6 +27,7 @@ Feel free to explore my repositories to see my projects and Kaggle contributions
 <img src="https://github-readme-stats.vercel.app/api?username=alejandraNvillarreal&show_icons=true" alt=Alejandravillarreal />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandraNvillarreal" alt="AlejandraVillarreal" /> </p>
 
+----
 
 <!--
 **santiagomota/santiagomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
