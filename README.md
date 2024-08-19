@@ -24,31 +24,32 @@ Feel free to explore my repositories to see my projects and Kaggle contributions
 
 ----
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandraNvillarreaL&theme=shadow_blue&layout=compact"width="48%"/> 
-</p>  
-
-<!---
-<a href="https://github.com/oraclebrain/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oraclebrain&repo=github-readme-stats&theme=shadow_green" />
-</a>
------------>
-<p align="center">
-  <a href="https://github.com/oraclebrain?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=alejandraNvillarreaL&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt=Alejandravillarreal github-readme-stats">
-  </a>
-  <a href="https://github.com/oraclebrain?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=alejandraNvillarreaL&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt=Alejandravillarreal github-readme-streak-stats">
-  </a>
-</p>
-<br/>
-<!--
 <img src="https://github-readme-stats.vercel.app/api?username=alejandraNvillarreal&show_icons=true" alt=Alejandravillarreal />
--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandraNvillarreal" alt="AlejandraVillarreal" /> </p>
 
 ----
+# PROJECTS
+
+## 🏥 ISIC - Skin Cancer 🔎 Exploratoy Data Analysis
+*An Exploratory Data Analysis of Skin Cancer Data from Kaggle.*
+<p align="center">
+<a href="https://medium.com/@alejandra.nohemi.villarreal/isic-skin-cancer-eda-872245ba1a37" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-3f3f3f?style=for-the-badge&labelColor=3f3f3f&logo=Medium&link=https://medium.com/@alejandra.nohemi.villarreal/isic-skin-cancer-eda-872245ba1a37" alt="smota"/></a>
+<a href="https://www.linkedin.com/pulse/isic-skin-cancer-eda-alejandra-villarreal-exm4e/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/pulse/isic-skin-cancer-eda-alejandra-villarreal-exm4e/" alt="AlejandraVillarreal"/></a>
+<a href="https://www.kaggle.com/code/alejandravillarreal/isic-skin-cancer-eda" target="blue"><img align="center" src="https://img.shields.io/badge/-Kaggle-464646?style=for-the-badge&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/code/alejandravillarreal/isic-skin-cancer-eda" alt="AlejandraVillarreal"/></a>
+  
+![image](https://github.com/user-attachments/assets/2c032aff-1546-4452-ba6b-1926d21f47a3)
+
+
+# 🥣Cereals 🍎Nutrition facts 🔍
+*An Exploratory Data Analysis 🥣 Cereals - 🍎 Nutritional Facts 🔍 Using R*
+<p align="center">
+<a href="https://medium.com/@alejandra.nohemi.villarreal/isic-skin-cancer-eda-872245ba1a37" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-3f3f3f?style=for-the-badge&labelColor=3f3f3f&logo=Medium&link=https://medium.com/@alejandra.nohemi.villarreal/isic-skin-cancer-eda-872245ba1a37" alt="smota"/></a>
+<a href="https://www.linkedin.com/pulse/cereals-nutrition-facts-eda-alejandra-villarreal-v5roe/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/pulse/cereals-nutrition-facts-eda-alejandra-villarreal-v5roe/" alt="AlejandraVillarreal"/></a>
+<a href="https://www.kaggle.com/code/alejandravillarreal/cereals-nutritional-eda-using-r" target="blue"><img align="center" src="https://img.shields.io/badge/-Kaggle-464646?style=for-the-badge&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/code/alejandravillarreal/cereals-nutritional-eda-using-r" alt="AlejandraVillarreal"/></a>
+</p>
+
+![image](https://github.com/user-attachments/assets/971714f9-6fc0-480b-9835-85580223aaed)
+
 
 <!--
 **santiagomota/santiagomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
