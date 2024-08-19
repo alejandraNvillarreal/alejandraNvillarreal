@@ -3,11 +3,12 @@ Hello there!
 I'm Alejandra, Data Science Engineer, Kaggle Contributor and Business Intelligence Developer
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alejandra-n-villarreal/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-n-villarreal/" alt="AlejandraVillarreal"/></a>
-<a href="https://www.kaggle.com/alejandravillarreal" target="blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-A7C0FF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/alejandravillarreal" alt="AlejandraVillarreal"/></a>
-<a href="https://github.com/alejandraNvillarreal?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/alejandraNvillarreal?tab=repositories" alt="AlejandraVillarreal"/></a>
-<a href="https://www.coursera.org/account-profile" target="blank"><img align="center" src="https://img.shields.io/badge/-Coursera-0363E5?style=for-the-badge&logo=Coursera&logoColor=white&https://www.coursera.org/account-profile" alt="AlejandraVillarreal"/></a>
-<a href="https://medium.com/@alejandra.nohemi.villarreal" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@alejandra.nohemi.villarreal" alt="smota"/></a>
+<a href="https://medium.com/@alejandra.nohemi.villarreal" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-3f3f3f?style=for-the-badge&labelColor=3f3f3f&logo=Medium&link=https://medium.com/@alejandra.nohemi.villarreal" alt="smota"/></a>
+<a href="https://www.linkedin.com/in/alejandra-n-villarreal/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-n-villarreal/" alt="AlejandraVillarreal"/></a>
+<a href="https://www.kaggle.com/alejandravillarreal" target="blue"><img align="center" src="https://img.shields.io/badge/-Kaggle-464646?style=for-the-badge&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/alejandravillarreal" alt="AlejandraVillarreal"/></a>
+<a href="https://www.coursera.org/account-profile" target="blank"><img align="center" src="https://img.shields.io/badge/-Coursera-2036d4?style=for-the-badge&logo=Coursera&logoColor=white&https://www.coursera.org/account-profile" alt="AlejandraVillarreal"/></a>
+<a href="https://github.com/alejandraNvillarreal?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-3f3f3f?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/alejandraNvillarreal?tab=repositories" alt="AlejandraVillarreal"/></a>
+
 
 
 </p>
